@@ -1,1 +1,1 @@
-facial recognition model is system deployed 
+This project is a facial recognition model system designed to enroll users, scan and recognize faces, and update user data and delete user data. The system leverages computer vision techniques to identify individuals based on facial features.
